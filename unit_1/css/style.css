@@ -1,11 +1,17 @@
 body {
-	background: orange;
+	background: white;
+	
+
 }
 
 h1, p {
-	color: teal;
+	color: black;
+	font-family:  arial, Helvetica;
+	font-weight: 200px
+	
+
 }
 
 p {
-	color: white;
+	color: black;
 }
