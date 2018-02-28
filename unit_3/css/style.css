@@ -1,8 +1,40 @@
 @import url('https://fonts.googleapis.com/css?family=Vidaloka');
 
 body {
-	background: 'light-blue;
+	background: 'light-blue';
+}
 	
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A
+	border: 1px black solid;
+	padding: 20px;
+	}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+	text-align: center;
+}
+
+footer {
+	background-color: #FF957E
+	border: 1px black solid
+	padding 20px;
+	text-align: center;
+}
 
 }
 
